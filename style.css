@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700&display=swap');
+
+.mushaf {
+  height: 50px;
+  margin-left: 20px;
+  margin-top: 30px;
+  margin-right: 10px;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 70px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #005FA3;
+}
+
+.navigation {
+  display: flex;
+  width: 700px;
+  justify-content: space-between;
+}
+
+.menu {
+  color: #005FA3;
+  font-weight: bold;
+}
